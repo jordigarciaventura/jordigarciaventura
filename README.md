@@ -1,4 +1,4 @@
-### Hey, I'm Jordi!
+# Hey, I'm Jordi!
 
 ---
 
