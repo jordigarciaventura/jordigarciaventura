@@ -6,7 +6,7 @@ I am currently studying computer engineering at the University of Lleida (Spain)
 
 ---
 
-Frontend Development
+### Frontend Development
 
 <a href="https://html.com/" target="_blank"> 
 <img src="./icons/html.svg" alt="html" height="32"/> 
@@ -30,7 +30,7 @@ Frontend Development
 <img src="./icons/d3.svg" alt="d3" height="32"/> 
 </a>
 
-Backend Development
+### Backend Development
 
 <a href="https://nodejs.org/es/" target="_blank"> 
 <img src="./icons/node.svg" alt="node" height="32"/> 
@@ -54,7 +54,7 @@ Backend Development
 <img src="./icons/chai.svg" alt="chai" height="32"/> 
 </a>
 
-Data Analysis
+### Data Analysis
 
 <a href="https://numpy.org/" target="_blank"> 
 <img src="./icons/numpy.svg" alt="numpy" height="32"/> 
@@ -72,7 +72,7 @@ Data Analysis
 <img src="./icons/tensorflow.svg" alt="tensorflow" height="32"/> 
 </a>
 
-Programming Languages
+### Programming Languages
 
 <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160" target="_blank"> 
 <img src="./icons/c.svg" alt="c" height="32"/> 
@@ -93,7 +93,7 @@ Programming Languages
 <img src="./icons/regex.svg" alt="regex" height="32"/> 
 </a>
 
-Software
+### Software
 
 <a href="https://www.arduino.cc/" target="_blank"> 
 <img src="./icons/arduino.svg" alt="arduino" height="32"/> 
