@@ -2,7 +2,7 @@
 
 ---
 
-I am currently studying computer engineering at the University of Lleida (Spain). Passionate about new technologies and motivated to keep learning every day.
+I am currently studying computer engineering at University of Lleida (Spain). Passionate about new technologies and motivated to keep learning every day.
 
 ---
 
