@@ -42,19 +42,22 @@ I am currently studying computer engineering at University of Lleida (Spain). Pa
 <img src="./icons/python.svg" alt="Python" /> 
 <img src="./icons/bash.svg" alt="Bash" /> 
 
-### Software & Others
+### Design, Animation & 3D
 
-<img src="./icons/arduino.svg" alt="Arduino" /> 
+<img src="./icons/figma.svg" alt="Figma" /> 
+<img src="./icons/inkscape.svg" alt="Inkscape" /> 
 <img src="./icons/unity.svg" alt="Unity" /> 
 <img src="./icons/blender.svg" alt="Blender" /> 
-<img src="./icons/inkscape.svg" alt="Inkscape" /> 
-<img src="./icons/figma.svg" alt="Figma" /> 
 <img src="./icons/davinci_resolve.svg" alt="Davinci Resolve" /> 
 <img src="./icons/after_effects.svg" alt="Adobe After Effects" /> 
 <img src="./icons/illustrator.svg" alt="Adobe Illustrator" /> 
-<img src="./icons/net.svg" alt="Microsoft .NET" /> 
-<img src="./icons/visualstudio.svg" alt="Visual Studio" /> 
+
+### Others
+
 <img src="./icons/studiocode.svg" alt="Visual Studio Code" /> 
+<img src="./icons/arduino.svg" alt="Arduino" /> 
+<img src="./icons/visualstudio.svg" alt="Visual Studio" /> 
+<img src="./icons/net.svg" alt="Microsoft .NET" /> 
 <img src="./icons/qt.svg" alt="Qt" /> 
 <img src="./icons/selenium.svg" alt="Selenium" /> 
 <img src="./icons/regex.svg" alt="Regex" /> 
