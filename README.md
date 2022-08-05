@@ -8,114 +8,55 @@ I am currently studying computer engineering at University of Lleida (Spain). Pa
 
 ### Frontend Development
 
-<a href="https://html.com/" target="_blank"> 
-<img src="./icons/html.svg" alt="html" /> 
-</a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> 
-<img src="./icons/css.svg" alt="css" /> 
-</a>
-<a href="https://es.reactjs.org/" target="_blank"> 
-<img src="./icons/react.svg" alt="react" /> 
-</a>
-<a href="https://es.redux.js.org/" target="_blank"> 
-<img src="./icons/redux.svg" alt="redux" /> 
-</a>
-<a href="https://getbootstrap.com/" target="_blank"> 
-<img src="./icons/bootstrap.svg" alt="bootstrap" /> 
-</a>
-<a href="https://sass-lang.com/" target="_blank"> 
-<img src="./icons/sass.svg" alt="sass" /> 
-</a>
-<a href="https://d3js.org/" target="_blank"> 
-<img src="./icons/d3.svg" alt="d3" /> 
-</a>
+<img src="./icons/html.svg" alt="HTML" /> 
+<img src="./icons/css.svg" alt="CSS" /> 
+<img src="./icons/sass.svg" alt="Sass" /> 
+<img src="./icons/react.svg" alt="React" /> 
+<img src="./icons/redux.svg" alt="Redux" /> 
+<img src="./icons/d3.svg" alt="D3" /> 
 
 ### Backend Development
 
-<a href="https://nodejs.org/es/" target="_blank"> 
-<img src="./icons/node.svg" alt="node" /> 
-</a>
-<a href="http://expressjs.com/" target="_blank"> 
-<img src="./icons/express.svg" alt="express" /> 
-</a>
-<a href="https://www.mongodb.com/es" target="_blank"> 
-<img src="./icons/mongodb.svg" alt="mongodb" /> 
-</a>
-<a href="https://mongoosejs.com/" target="_blank"> 
-<img src="./icons/mongoose.svg" alt="mongoose" /> 
-</a>
-<a href="https://socket.io/" target="_blank"> 
-<img src="./icons/socket.svg" alt="socket" /> 
-</a>
-<a href="https://mochajs.org/" target="_blank"> 
-<img src="./icons/mocha.svg" alt="mocha" /> 
-</a>
-<a href="https://www.chaijs.com/" target="_blank"> 
-<img src="./icons/chai.svg" alt="chai" /> 
-</a>
+<img src="./icons/node.svg" alt="Node" /> 
+<img src="./icons/express.svg" alt="Express" /> 
+<img src="./icons/socket.svg" alt="Socket" /> 
+<img src="./icons/mongodb.svg" alt="Mongodb" /> 
+<img src="./icons/mongoose.svg" alt="Mongoose" /> 
+<img src="./icons/postgresql.svg" alt="Postgresql" /> 
 
-### Data Analysis
+### Data Analysis & AI
 
-<a href="https://numpy.org/" target="_blank"> 
-<img src="./icons/numpy.svg" alt="numpy" /> 
-</a>
-<a href="https://pandas.pydata.org/" target="_blank"> 
-<img src="./icons/pandas.svg" alt="pandas" /> 
-</a>
-<a href="http://seaborn.pydata.org/" target="_blank"> 
-<img src="./icons/seaborn.svg" alt="seaborn" /> 
-</a>
-<a href="https://matplotlib.org/" target="_blank"> 
-<img src="./icons/matplotlib.svg" alt="matplotlib" /> 
-</a>
-<a href="https://www.tensorflow.org/" target="_blank"> 
-<img src="./icons/tensorflow.svg" alt="tensorflow" /> 
-</a>
+<img src="./icons/numpy.svg" alt="Numpy" /> 
+<img src="./icons/pandas.svg" alt="Pandas" /> 
+<img src="./icons/matplotlib.svg" alt="Matplotlib" /> 
+<img src="./icons/seaborn.svg" alt="Seaborn" /> 
+<img src="./icons/tensorflow.svg" alt="Tensorflow" /> 
 
 ### Programming Languages
 
-<a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160" target="_blank"> 
-<img src="./icons/c.svg" alt="c" /> 
-</a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-<img src="./icons/c_sharp.svg" alt="c#" /> 
-</a>
-<a href="https://www.java.com/es/" target="_blank"> 
-<img src="./icons/java.svg" alt="java" /> 
-</a>
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> 
-<img src="./icons/js.svg" alt="js" /> 
-</a>
-<a href="https://www.python.org/" target="_blank"> 
-<img src="./icons/python.svg" alt="python" /> 
-</a>
-<a href="https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference" target="_blank"> 
-<img src="./icons/regex.svg" alt="regex" /> 
-</a>
+<img src="./icons/c.svg" alt="C" /> 
+<img src="./icons/c++.svg" alt="C++" /> 
+<img src="./icons/c_sharp.svg" alt="C#" /> 
+<img src="./icons/java.svg" alt="Java" /> 
+<img src="./icons/js.svg" alt="Javascript" /> 
+<img src="./icons/python.svg" alt="Python" /> 
+<img src="./icons/bash.svg" alt="Bash" /> 
 
-### Software
+### Software & Others
 
-<a href="https://www.arduino.cc/" target="_blank"> 
-<img src="./icons/arduino.svg" alt="arduino" /> 
-</a>
-<a href="https://unity.com/es" target="_blank"> 
-<img src="./icons/unity.svg" alt="unity" /> 
-</a>
-<a href="https://www.blender.org/" target="_blank"> 
-<img src="./icons/blender.svg" alt="blender" /> 
-</a>
-<a href="https://inkscape.org/es/" target="_blank"> 
-<img src="./icons/inkscape.svg" alt="inkscape" /> 
-</a>
-<a href="https://www.figma.com/" target="_blank"> 
-<img src="./icons/figma.svg" alt="figma" /> 
-</a>
-<a href="https://www.blackmagicdesign.com/es/products/davinciresolve/" target="_blank"> 
-<img src="./icons/davinci_resolve.svg" alt="davinci_resolve" /> 
-</a>
-<a href="https://www.adobe.com/es/products/aftereffects.html" target="_blank"> 
-<img src="./icons/after_effects.svg" alt="after_effects" /> 
-</a>
-<a href="https://www.adobe.com/la/products/illustrator.html" target="_blank"> 
-<img src="./icons/illustrator.svg" alt="illustrator" /> 
-</a>
+<img src="./icons/arduino.svg" alt="Arduino" /> 
+<img src="./icons/unity.svg" alt="Unity" /> 
+<img src="./icons/blender.svg" alt="Blender" /> 
+<img src="./icons/inkscape.svg" alt="Inkscape" /> 
+<img src="./icons/figma.svg" alt="Figma" /> 
+<img src="./icons/davinci_resolve.svg" alt="Davinci Resolve" /> 
+<img src="./icons/after_effects.svg" alt="Adobe After Effects" /> 
+<img src="./icons/illustrator.svg" alt="Adobe Illustrator" /> 
+<img src="./icons/net.svg" alt="Microsoft .NET" /> 
+<img src="./icons/visualstudio.svg" alt="Visual Studio" /> 
+<img src="./icons/studiocode.svg" alt="Visual Studio Code" /> 
+<img src="./icons/qt.svg" alt="Qt" /> 
+<img src="./icons/selenium.svg" alt="Selenium" /> 
+<img src="./icons/regex.svg" alt="Regex" /> 
+<img src="./icons/anaconda.svg" alt="Anaconda" /> 
+<img src="./icons/jupyter.svg" alt="Jupyter Notebooks" /> 
