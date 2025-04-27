@@ -99,3 +99,4 @@ Studying computer engineering at University of Lleida (Spain). Covering differen
 ## Profiles
 [FreeCodeCamp](https://www.freecodecamp.org/jordigarciaventura)
 | [HackerRank](https://www.hackerrank.com/jordigv)
+| [CodePen](https://codepen.io/jordigarciaventura/pens/showcase)
